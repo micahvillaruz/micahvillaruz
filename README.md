@@ -6,11 +6,11 @@
 
 
 
-<img align="center" width="100%" src="./assets/laptop.gif">
+<img align="center" width="100%" src="https://i.pinimg.com/originals/98/b4/85/98b485a8785451a395cc7a315aa896b0.gif">
 
 <br>
 
-<a href="https://app.daily.dev/micahvllz"><img align="right" src="https://api.daily.dev/devcards/e0e2fd3af41246ddba426bd4945a49cd.png?r=s5e" style="width:250px; height:350px;" alt="Micah Villaruz's Dev Card"/></a>
+<a href="https://app.daily.dev/micahvllz"><img align="right" src="https://api.daily.dev/devcards/e0e2fd3af41246ddba426bd4945a49cd.png?r=auw" width="300" alt="Micah Villaruz's Dev Card"/></a>
 
 ## <img src="./assets/programmer.gif" height="40px"> About Me:
 
@@ -26,7 +26,8 @@
 ### <img src="./assets/handshake.gif" height="30px"> Connect with Me
 
 <!-- Social icons section -->
-<p align="center" style="margin-top: 10px;">
+<p align="left">
+ &nbsp; &nbsp;
   <a href="mailto:micahmvillaruz@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="./assets/gmail.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://linkedin.com/in/micah-villaruz"><img width="32px" alt="Linkedin" title="Linkedin" src="./assets/linkedin.png"/></a>
