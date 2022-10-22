@@ -84,9 +84,9 @@
 #### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-
 1. 💪 Opened PR [#10](https://github.com/micahvllz/foodtrip-web/pull/10) in [micahvllz/foodtrip-web](https://github.com/micahvllz/foodtrip-web)
 2. 💪 Opened PR [#10](https://github.com/claire0228/Automation_Testing/pull/10) in [claire0228/Automation_Testing](https://github.com/claire0228/Automation_Testing)
+3. 💪 Opened PR [#1](https://github.com/polekstulod/fms-prototype/pull/1) in [polekstulod/fms-prototype](https://github.com/polekstulod/fms-prototype)
 3. 💪 Opened PR [#1](https://github.com/polekstulod/fms-prototype/pull/1) in [polekstulod/fms-prototype](https://github.com/polekstulod/fms-prototype)
 4. 💪 Opened PR [#1](https://github.com/polekstulod/fms-prototype/pull/1) in [polekstulod/fms-prototype](https://github.com/polekstulod/fms-prototype)
 <!--END_SECTION:activity-->
