@@ -84,10 +84,12 @@
 #### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#16](https://github.com/micahvllz/myPUPQC/pull/16#pullrequestreview-1376730239) in [micahvllz/myPUPQC](https://github.com/micahvllz/myPUPQC)<br>
-2. 💬 Commented on [#16](https://github.com/micahvllz/myPUPQC/pull/16#discussion_r1161075490) in [micahvllz/myPUPQC](https://github.com/micahvllz/myPUPQC)<br>
+1. 🤝 Became collaborator on [micahvllz/myPUPQC](https://github.com/micahvllz/myPUPQC)<br>
+2. 🤝 Became collaborator on [micahvllz/myPUPQC](https://github.com/micahvllz/myPUPQC)<br>
+3. 👍 Approved [#16](https://github.com/micahvllz/myPUPQC/pull/16#pullrequestreview-1376730239) in [micahvllz/myPUPQC](https://github.com/micahvllz/myPUPQC)<br>
+4. 💬 Commented on [#16](https://github.com/micahvllz/myPUPQC/pull/16#discussion_r1161075490) in [micahvllz/myPUPQC](https://github.com/micahvllz/myPUPQC)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 18th, 2023, 1:06:49 AM
+Last Updated: Monday, June 19th, 2023, 12:59:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
