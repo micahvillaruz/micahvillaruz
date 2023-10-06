@@ -85,9 +85,8 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. 🤝 Became collaborator on [micahvllz/myPUPQC](https://github.com/micahvllz/myPUPQC)<br>
-2. 🤝 Became collaborator on [micahvllz/myPUPQC](https://github.com/micahvllz/myPUPQC)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 5th, 2023, 12:46:27 AM
+Last Updated: Friday, October 6th, 2023, 12:46:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
