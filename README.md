@@ -18,7 +18,7 @@
 - 🌱 Currently, I'm actively seeking job opportunities as a developer
 - 💬 Feel free to contact me regarding potential job openings
 - 👯 I’m looking to collaborate on Open Source Projects
-- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/micahvllz?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/micahvillaruz?tab=repositories)**
 - 📫 Reach me at **micahmvillaruz@gmail.com**
 - ⚡ Fun fact: When I set my mind onto something, I won't stop until I get it!
 
@@ -29,7 +29,7 @@
  &nbsp; &nbsp;
   <a href="mailto:micahmvillaruz@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="./assets/gmail.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://linkedin.com/in/micah-villaruz"><img width="32px" alt="Linkedin" title="Linkedin" src="./assets/linkedin.png"/></a>
+  <a href="https://linkedin.com/in/micahvillaruz"><img width="32px" alt="Linkedin" title="Linkedin" src="./assets/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discordapp.com/users/749139715680108657" alt="Discord" title="Discord"><img width="32px" src="./assets/discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -49,47 +49,47 @@
 ## <img src="./assets/projects.gif" height="40px"> &nbsp; My Projects:
 
 <p align="center">
-<a href="https://github.com/micahvllz/portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=micahvllz&repo=portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="portfolio"></a>
-<a href="https://github.com/micahvllz/foodtrip-web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=micahvllz&repo=foodtrip-web&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="foodtrip-web"></a>
+<a href="https://github.com/micahvillaruz/portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=micahvillaruz&repo=portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="portfolio"></a>
+<a href="https://github.com/micahvillaruz/foodtrip-web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=micahvillaruz&repo=foodtrip-web&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="foodtrip-web"></a>
 <a href="https://github.com/polekstulod/foodtrip-api"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=polekstulod&repo=foodtrip-api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="foodtrip-api"></a>
 <a href="https://github.com/polekstulod/fms-prototype"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=polekstulod&repo=fms-prototype&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="fms-prototype"></a>
 <a href="https://github.com/polekstulod/rxpress-web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=polekstulod&repo=rxpress-web&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="rxpress-web"></a>
-<a href="https://github.com/micahvllz/Payroll-Management-System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=micahvllz&repo=payroll-management-system&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="payroll-management-system"></a>
+<a href="https://github.com/micahvillaruz/Payroll-Management-System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=micahvillaruz&repo=payroll-management-system&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="payroll-management-system"></a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/micahvllz?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/micahvillaruz?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 ## <img src="./assets/streak.gif" height="35px"> &nbsp; Streak Statistics:
 
 <p align="center">
-<img alt="micahvllz's streak" src="https://streak-stats.demolab.com/?user=micahvllz&theme=monokai-metallian&hide_border=true"/>
+<img alt="micahvillaruz's streak" src="https://streak-stats.demolab.com/?user=micahvillaruz&theme=monokai-metallian&hide_border=true"/>
 </p>
 
 ## <img src="./assets/statistics.gif" height="35px"> GitHub Statistics:
 
 #### 🏆 Trophies
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=micahvllz&theme=dracula" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=micahvillaruz&theme=dracula" /> </p>
 
 #### 💻 Overview
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="micahvllz's Github Stats" src="https://github-readme-stats-polekstulod.vercel.app/api/?username=micahvllz&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="micahvllz's Top Languages" src="https://github-readme-stats-polekstulod.vercel.app/api/top-langs/?username=micahvllz&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="micahvillaruz's Github Stats" src="https://github-readme-stats-polekstulod.vercel.app/api/?username=micahvillaruz&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="micahvillaruz's Top Languages" src="https://github-readme-stats-polekstulod.vercel.app/api/top-langs/?username=micahvillaruz&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 </div>
 <br>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="micahvllz's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=micahvllz&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="micahvillaruz's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=micahvillaruz&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 #### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 4 commit(s) to [micahvllz/cocktails](https://github.com/micahvllz/cocktails)<br>
-2. 📔 Created new repository [micahvllz/cocktails](https://github.com/micahvllz/cocktails)<br>
-3. 📔 Created new repository [micahvllz/signup](https://github.com/micahvllz/signup)<br>
-4. 📔 Created new repository [micahvllz/employee-records](https://github.com/micahvllz/employee-records)<br>
-5. 📔 Created new repository [micahvllz/laravel-mongodb-rest-api-crud](https://github.com/micahvllz/laravel-mongodb-rest-api-crud)<br>
+1. ⬆️ Pushed 4 commit(s) to [micahvillaruz/cocktails](https://github.com/micahvillaruz/cocktails)<br>
+2. 📔 Created new repository [micahvillaruz/cocktails](https://github.com/micahvillaruz/cocktails)<br>
+3. 📔 Created new repository [micahvillaruz/signup](https://github.com/micahvillaruz/signup)<br>
+4. 📔 Created new repository [micahvillaruz/employee-records](https://github.com/micahvillaruz/employee-records)<br>
+5. 📔 Created new repository [micahvillaruz/laravel-mongodb-rest-api-crud](https://github.com/micahvillaruz/laravel-mongodb-rest-api-crud)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
